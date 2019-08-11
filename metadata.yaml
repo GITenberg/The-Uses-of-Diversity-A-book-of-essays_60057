@@ -1,0 +1,39 @@
+_repo: The-Uses-of-Diversity-A-book-of-essays_60057
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    - Chesterton, Gilbert Keith
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: ''
+gutenberg_issued: '2019-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60057'
+  lccn: '21006638'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English essays -- 20th century'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: On seriousness -- Lamp-posts -- The spirits -- Tennyson -- The domesticity
+  of detectives -- George Meredith -- The Irishman -- Ireland and the domestic drama
+  -- The Japanese -- Christian Science -- The lawlessness of lawyers -- Our Latin
+  relations -- On pigs as pets -- The romance of Rostand -- Wishes -- The futurists
+  -- The evolution of Emma -- The pseudo-scientific books -- The humour of King Herod
+  -- The silver goblets -- The duty of the historian -- Questions of divorce -- Mormonism
+  -- Pageants and dress -- On stage costume -- The yule log and the Democrat -- More
+  thoughts on Christmas -- Dickens again -- Taffy -- "Ego et Shavius Meus" -- The
+  plan for a new universe -- George Wyndham -- Four stupidities -- On historical novels
+  -- On monsters.
+title: 'The Uses of Diversity: A book of essays'
+url: http://www.gutenberg.org/ebooks/60057
